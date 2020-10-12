@@ -5,6 +5,6 @@ Why the code wont work:
 1) this code is using an old version of fbchat
 2) the statistics came from a 3rd party site not the main covid database so it most likely has changed its html code 
 -----------------------------------------------------------------------------
-warning
+WARNING---->
 DO NOT TRY THIS WITH YOUR MAIN FB ACCOUNT.
 it will either get banned or most likely get temporarily locked 
